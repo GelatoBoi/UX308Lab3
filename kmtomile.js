@@ -18,6 +18,5 @@ describe("test convertKilometersToMiles", function() {
     }
 }
 
-
 //Therefore statement
 console.log(`${kilometers} km converted into miles is ${miles}`);
